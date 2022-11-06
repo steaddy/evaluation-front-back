@@ -1,0 +1,13 @@
+.main-container {
+    background: #15273F;
+    max-width: 1920px;
+    min-width: 960px;
+    margin: auto;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 55vh;
+}

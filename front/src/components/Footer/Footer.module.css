@@ -1,0 +1,29 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    height: 15vh;
+}
+
+.footer_main-container {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer_logo-container {
+    height: 90px;
+    width: 360px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+}
+
+.footer_logo-container p {
+    text-align: center;
+    font-size: 19px;
+    margin: auto;
+}
